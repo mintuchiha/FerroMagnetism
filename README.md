@@ -11,3 +11,4 @@ $$state=
 	\Delta E > 0~~~ \text{flip with probability }e^{-\Delta E/kT}	
 \end{cases}$$
 where $k$ is the Boltzmann's constant and $T$ is the temperature.
+![alt text](https://github.com/mintuchiha/FerroMagnetism/blob/master/animation.gif "FerroMagnetism Animation")
